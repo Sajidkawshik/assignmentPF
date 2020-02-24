@@ -1,0 +1,58 @@
+body{
+    font-family: 'Titillium Web' ;
+    margin: 0px;
+}
+
+.pink-name{
+    color: crimson;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+p{
+    color: dimgray;
+}
+.half-width{
+
+    width: 40%;
+    float: left ; 
+    margin-left: 5%;
+    padding-left: 3%;
+    margin-top: 6%;
+  
+    
+}
+.half-width-topleft{
+    
+    margin-left: 8%;
+    margin-top: 15% ;
+}
+
+.half-width img{
+    width: 100%;
+    height: 18%;
+    
+  
+}
+section{
+    height: 480px;
+    padding-bottom: 150px;
+}
+
+.top-banner{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    font-weight: 700; 
+    color: white;
+}
+
+.create-gap{
+    margin: 6% 0;;
+}
